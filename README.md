@@ -4,6 +4,8 @@
 
 The following is a summary of the lab objectives for each module:
 
+### Test
+
 ## Lab 1 - Azure for the Data Engineer
 
 The students will take the information gained in the lessons and from the case study to scope out the deliverables for a digital transformation project within AdventureWorks. They will first identify how the evolving use of data has presented new opportunities for the organization. The students will also explore which Azure Data Platform services can be used to address the business needs and define the tasks that will be performed by the data engineer. Finally, students will finalize the data engineering deliverables for AdventureWorks.
