@@ -11,7 +11,7 @@
 AdventureWorks are in the process of transferring a web application and its logic to Azure Web Apps and require a **data store that can be used to host the static images** that are used on the website.
 |||
 |---|---|
-|Data Store Type | Azure Storage Account. An Azure Storage Account is a type of data storage and has different technologies (configurations) An Azure storage account contains all of your **Azure Storage data objects: blobs, files, queues, tables, and disks** |
+|Data Store Type | **Azure Storage Account**. An Azure Storage Account is a type of data storage and has different technologies (configurations) An Azure storage account contains all of your **Azure Storage data objects: blobs, files, queues, tables, and disks** |
 |Configuration options | Account type should be chosen as **Blobs**. The configruation options for Azure Storage Account can be found [here](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction#blob-storage) |
 |Other comments	| Consider locating the Blob store in the same location as the Azuer Web App |
 ---
