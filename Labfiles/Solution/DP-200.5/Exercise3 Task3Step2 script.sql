@@ -5,9 +5,6 @@ userId int null,
 City nvarchar(100) null,
 Region nvarchar(100) null,
 Country nvarchar(100) null
-) WITH (
-CLUSTERED COLUMNSTORE INDEX,
-DISTRIBUTION = _____________
 );
 GO
 --Exercise 3 Task 3 Step 5
@@ -22,9 +19,6 @@ Weight int null,
 DaysTomanufacture int null,
 Class nvarchar(100) null,
 Style nvarchar(100) null
-) WITH (
-CLUSTERED COLUMNSTORE INDEX,
-DISTRIBUTION = _____________
 );
 GO
 --Exercise 3 Task 3 Step 8
@@ -34,8 +28,5 @@ ProductId int null,
 UserId int null,
 UserPreferenceId int null,
 SalesUnit int null
-) WITH (
-CLUSTERED COLUMNSTORE INDEX,
-DISTRIBUTION = _______________
 );
 GO

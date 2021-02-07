@@ -7,6 +7,8 @@
 ## Exercise 1 - Choose a data storage approach in Azure
 ### Task 1: Identify the data storage requirements and structures of AdventureWorks
 
+here's an architectural overview of how to use Data Lakes: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/6-use-cases
+
 **Question 1**
 AdventureWorks are in the process of transferring a web application and its logic to Azure Web Apps and require a **data store that can be used to host the static images** that are used on the website.
 |||

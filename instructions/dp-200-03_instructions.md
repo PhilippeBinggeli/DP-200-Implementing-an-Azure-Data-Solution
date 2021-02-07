@@ -1,6 +1,27 @@
 ﻿# DP 200 - Implementing a Data Platform Solution
 # Lab 3 - Enabling Team Based Data Science with Azure Databricks
 
+## The names and key, used during the lab
+---
+storage account name
+awdlsstudpgl
+
+Application client ID
+6ddaed2b-9c2d-4abe-b7c0-14880895534b
+
+Directory ID
+d44e3d78-4e21-4006-bf5f-b527099e837e
+
+application key value
+~9D_2nzP-u8rVw~5g32SZwDTtRK11u2mza
+application key ID
+19bedb58-f966-4c45-be49-59285d0a1c10
+
+AD tenant ID
+d44e3d78-4e21-4006-bf5f-b527099e837e 
+
+---
+
 **Estimated Time**: 75 minutes
 
 **Pre-requisites**: It is assumed that the case study for this lab has already been read. It is assumed that the content and lab for module 1: Azure for the Data Engineer has also been completed
